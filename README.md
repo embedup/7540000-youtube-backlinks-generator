@@ -2,7 +2,10 @@
 
 Put this codes to any webpage &  start creating backlinks: 
 
-<form id="form1" method="get">
+
+<code>
+  
+  <form id="form1" method="get">
 <input id="url" name="domain" size="1" " type="text" />
   <input id="keyword" name="keyword" size="1"  type="text" />
   <select id="limit" name="limit" onchange="javascript:oncheck()" >        
@@ -28,3 +31,5 @@ Put this codes to any webpage &  start creating backlinks:
  </script>
  <script type="text/javascript" src="https://raw.githubusercontent.com/embedup/7540000-youtube-backlinks-generator/master/jquery-1-4-2-min.js"></script>
  <script type="text/javascript" src="https://raw.githubusercontent.com/embedup/7540000-youtube-backlinks-generator/master/part-01.js"></script>
+                                                                                                                                     
+                                                                                                                                     </code>
