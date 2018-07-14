@@ -27,3 +27,4 @@ Put this codes to any webpage &  start creating backlinks:
   }
  </script>
  <script type="text/javascript" src="https://raw.githubusercontent.com/embedup/7540000-youtube-backlinks-generator/master/jquery-1-4-2-min.js"></script>
+ <script type="text/javascript" src="https://raw.githubusercontent.com/embedup/7540000-youtube-backlinks-generator/master/part-01.js"></script>
